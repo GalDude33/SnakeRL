@@ -2,6 +2,8 @@
 Deep Reinforcement Learning implementation for the mighty game of Snake
 
 ### Agents Implemented:
+[Linear Agent](policies/policy_linear.py)
+
 [Basic DQN](policies/policy_DQN.py)
 
 [Dueling DQN](policies/policy_DuelDQN.py)
