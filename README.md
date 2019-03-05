@@ -16,3 +16,6 @@ Deep Reinforcement Learning implementation for the mighty game of Snake
 DoubleDQN - enables double DQN learning.
 
 radius - control the radius of the agent field of view.
+
+### Prioritized Experience Replay
+Just change the base class for any of the above to [PriorBaseDQN](policies/policy_PriorityBaseDQN.py).
